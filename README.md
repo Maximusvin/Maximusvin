@@ -1,7 +1,4 @@
-### Hi there 👋
-
-<!--
-**Maximusvin/Maximusvin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello there 👋, I'm Maxim! 🦦
 
 Here are some ideas to get you started:
 
@@ -9,8 +6,15 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+**Get in touch:**
+[![Linkedin Badge](https://img.shields.io/badge/-Maxim_Kozlov-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maxim-kozlov/)](https://www.linkedin.com/in/maxim-kozlov/) [![Github Badge](https://img.shields.io/badge/-Maxim_Kozlov-grey?style=flat&logo=github&logoColor=white&link=https://github.com/Maximusvin)](https://www.github.com/Maximusvin/) ![Profile views](https://gpvc.arturio.dev/Maximusvin)
+
+
+## Some of my Github Stats
+[![All Stats](https://github-readme-stats-axpwmfcg3.vercel.app/api?username=Maximusvin&show_icons=true&include_all_commits=true&count_private=true&hide=contribs)](https://github.com/Maximusvin/github-readme-stats)
+[![Top Langs](https://github-readme-stats-axpwmfcg3.vercel.app/api/top-langs/?username=Maximusvin&layout=compact)](https://github.com/Maximusvin/github-readme-stats)
+
+
+<!--![Pedes's github stats](https://github-readme-stats.vercel.app/api?username=pedes) -->
