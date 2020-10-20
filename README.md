@@ -25,8 +25,8 @@ Here are some ideas to get you started:
 [<img align="left" alt="webpack" width="42px" src="https://raw.githubusercontent.com/IvanFesenko/IvanFesenko/master/img/webpack.jpg" />]()
 
 <br><br>
----
-<br><br>
+-
+<br>
 
 ### Get in touch:
 [![Linkedin Badge](https://img.shields.io/badge/-Maxim_Kozlov-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maxim-kozlov/)](https://www.linkedin.com/in/maxim-kozlov/) 
