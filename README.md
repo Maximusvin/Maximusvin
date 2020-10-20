@@ -7,10 +7,10 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 -->
-#### TECH STACK
+### TECH STACK
 HTML / CSS / SCSS / BOOSTRAP / JS / NODE JS / GITHUB /
 
-**Get in touch:**
+### Get in touch:
 [![Linkedin Badge](https://img.shields.io/badge/-Maxim_Kozlov-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maxim-kozlov/)](https://www.linkedin.com/in/maxim-kozlov/) 
 [![Facebook Badge](https://img.shields.io/badge/-Maxim_Kozlov-0072b1?style=flat&logo=Facebook&logoColor=white&link=https://www.facebook.com/kozlov.m.n/)](https://www.facebook.com/kozlov.m.n/)
 [![Github Badge](https://img.shields.io/badge/-Maxim_Kozlov-grey?style=flat&logo=github&logoColor=white&link=https://github.com/Maximusvin)](https://www.github.com/Maximusvin/) ![Profile views](https://gpvc.arturio.dev/Maximusvin)
