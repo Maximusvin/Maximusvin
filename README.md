@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 <br />
 <br />
-<img align="left" alt="IvanFesenko's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=IvanFesenko&show_icons=true&hide_border=true" />
+
 
 ### Get in touch:
 [![Linkedin Badge](https://img.shields.io/badge/-Maxim_Kozlov-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maxim-kozlov/)](https://www.linkedin.com/in/maxim-kozlov/) 
