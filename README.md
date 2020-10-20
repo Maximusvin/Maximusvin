@@ -2,11 +2,9 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
--->
+- 🔭  I’m currently learning React
+- 🌱 I’m currently working on my own App
+
 ### Tech stack:
 HTML / CSS / SCSS / BOOSTRAP / JS / NODE JS / GITHUB /
 
@@ -17,4 +15,3 @@ HTML / CSS / SCSS / BOOSTRAP / JS / NODE JS / GITHUB /
 
 ### Some of my Github Stats
 [![All Stats](https://github-readme-stats-axpwmfcg3.vercel.app/api?username=Maximusvin&show_icons=true&include_all_commits=true&count_private=true&hide=contribs)](https://github.com/Maximusvin/github-readme-stats)
-[![Top Langs](https://github-readme-stats-axpwmfcg3.vercel.app/api/top-langs/?username=Maximusvin&layout=compact)](https://github.com/Maximusvin/github-readme-stats)
