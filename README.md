@@ -10,7 +10,7 @@
 
 ### STACK & TOOLS:
 
-[<img align="left" alt="Git" width="36px" src="https://raw.githubusercontent.com/Google-Barma/google-barma/master/image/git.png" />]()
+[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/Google-Barma/google-barma/master/image/git.png" />]()
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/Google-Barma/google-barma/master/image/terminal.png" />]()
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/Google-Barma/google-barma/master/image/github.png" />]()
 [<img align="left" alt="Photoshop" width="36px" src="https://raw.githubusercontent.com/Google-Barma/google-barma/master/image/photoshop.png" />]()
