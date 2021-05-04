@@ -1,10 +1,5 @@
 # Hello there 👋, I'm Maxim! 🦦
 
-Here are some ideas to get you started:
-
-- 🔭  I’m currently learning React
-- 🌱 I’m currently working on my own App
-
 ### Languages and Tools:
 
 [<img align="left" alt="Git" width="42px" src="https://raw.githubusercontent.com/IvanFesenko/IvanFesenko/master/img/git.png" />]()
