@@ -19,7 +19,6 @@
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/Google-Barma/google-barma/master/image/react.png" />]()
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/Google-Barma/google-barma/master/image/redux.png" />]()
 
-
 <br><br>
 -
 <br>
