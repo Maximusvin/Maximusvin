@@ -5,7 +5,6 @@
 [![Facebook Badge](https://img.shields.io/badge/-0072b1?style=flat&logo=Facebook&logoColor=white&link=https://www.facebook.com/kozlov.m.n/)](https://www.facebook.com/kozlov.m.n/)
 [![Github Badge](https://img.shields.io/badge/-grey?style=flat&logo=github&logoColor=white&link=https://github.com/Maximusvin)](https://www.github.com/Maximusvin/) ![Profile views](https://gpvc.arturio.dev/Maximusvin)
 
-### Some of my Github Stats
 [![All Stats](https://github-readme-stats-axpwmfcg3.vercel.app/api?username=Maximusvin&show_icons=true&include_all_commits=true&count_private=true&hide=contribs)](https://github.com/Maximusvin/github-readme-stats)
 
 
